@@ -3,6 +3,9 @@
 </p>
 
 <p align="center">
+  <img src="./python_knowledge_refresh/1st.png" width="580">
+</p>
+<p align="center">
   <strong>A little game where you are an undergraduate at the great engineering school of Budapest</strong>
 </p>
 
@@ -32,4 +35,6 @@
 </table>
 
 Make sure you don't lose your motivation! 
-
+<p align="center">
+  <img src="./python_knowledge_refresh/died.png" width="580">
+</p>
