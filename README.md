@@ -50,5 +50,5 @@ Make sure you don't lose your motivation!
 Professors like to drink coffee too... 
 </p>
 <p align="center">
-  <img src="./python_knowledge_refresh/coffee.png" width="580">
+  <img src="./python_knowledge_refresh/coffee.png" width="240">
 </p>
