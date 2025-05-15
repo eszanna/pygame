@@ -51,7 +51,7 @@
 
 <h3 align="center" style="color: red;">⚠️ WARNING ⚠️</h3>
 
-<p align="center"><strong>Professors like to drink coffee too... ☕</strong></p>
+<p align="center"><strong>Professors like to drink coffee too... </strong></p>
 
 <p align="center">
   <img src="./python_knowledge_refresh/coffee.png" width="240">
