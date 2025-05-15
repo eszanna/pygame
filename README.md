@@ -38,17 +38,16 @@
   </tr>
 </table>
 
-<p align="center">
-Make sure you don't lose your motivation! 
-</p>
+<p align="center"><b>☠️ Make sure you don't lose your motivation! ☠️</b></p>
+
 <p align="center">
   <img src="./python_knowledge_refresh/died.PNG" width="580">
 </p>
 
-# WARNING
-<p align="center">
-Professors like to drink coffee too... 
-</p>
+<h3 align="center" style="color: red;">⚠️ WARNING ⚠️</h3>
+
+<p align="center"><strong>Professors like to drink coffee too... ☕</strong></p>
+
 <p align="center">
   <img src="./python_knowledge_refresh/coffee.png" width="240">
 </p>
