@@ -61,3 +61,5 @@ Control:
 - press G to pick up the marks and boosters
 - once you collect 3 marks, you can go to the next semester
 - stand near the exit and click on the exit sign
+- colliding with professors makes you lose motivation :)
+- professors like to eat burgers, it makes them slower, use this advantage to escape
