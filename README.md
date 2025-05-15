@@ -1,18 +1,33 @@
 <p align="center">
-<img src="./python_knowledge_refresh/title.png" width="580">
+  <img src="./python_knowledge_refresh/title.png" width="580">
+</p>
 
-A little game where you are an undergraduate at the great engineering school of Budapest
-<img src="./python_knowledge_refresh/undergraduate_left.png" width="160">
+<p align="center">
+  <strong>A little game where you are an undergraduate at the great engineering school of Budapest</strong>
+</p>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./python_knowledge_refresh/undergraduate.png" width="120"><br>
+      <sub><b>Escape angry professors</b></sub>
+    </td>
+    <td align="center">
+      <img src="./python_knowledge_refresh/prof.png" width="120"><br>
+      <sub><b>Dodge the danger!</b></sub>
+    </td>
+    <td align="center">
+      <img src="./python_knowledge_refresh/drink.png" width="120"><br>
+      <sub><b>Fuel up with energy drinks</b></sub>
+    </td>
+    <td align="center">
+      <img src="./python_knowledge_refresh/diploma.png" width="120"><br>
+      <sub><b>Fight for your diploma</b></sub>
+    </td>
+    <td align="center">
+      <img src="./python_knowledge_refresh/exit.png" width="120"><br>
+      <sub><b>Graduate with honors!</b></sub>
+    </td>
+  </tr>
+</table>
 
-have to escape angry professors, 
-<img src="./python_knowledge_refresh/prof.png" width="160">
-
-drink energy drinks to run faster,
-<img src="./python_knowledge_refresh/drink.png" width="160">
-
-fight for your diploma,
-<img src="./python_knowledge_refresh/diploma.png" width="160">
-
-and reach the last semester with the best marks possible
-<img src="./python_knowledge_refresh/exit.png" width="160">
