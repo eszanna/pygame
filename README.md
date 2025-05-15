@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="./python_knowledge_refresh/1st.PNG" width="580">
-</p>
-<p align="center">
   <strong>A little game where you are an undergraduate at the great engineering school of Budapest</strong>
+</p>
+
+<p align="center">
+  <img src="./python_knowledge_refresh/1st.PNG" width="580">
 </p>
 
 <table align="center">
@@ -38,11 +39,15 @@
   </tr>
 </table>
 
+<br><br>
+
 <p align="center"><b>☠️ Make sure you don't lose your motivation! ☠️</b></p>
 
 <p align="center">
   <img src="./python_knowledge_refresh/died.PNG" width="580">
 </p>
+
+<br><br>
 
 <h3 align="center" style="color: red;">⚠️ WARNING ⚠️</h3>
 
