@@ -21,11 +21,15 @@
     </td>
     <td align="center">
       <img src="./python_knowledge_refresh/drink.png" width="120"><br>
-      <sub><b>Fuel up with energy drinks</b></sub>
+      <sub><b>Fuel up with energy drinks!</b></sub>
     </td>
     <td align="center">
       <img src="./python_knowledge_refresh/diploma.png" width="120"><br>
-      <sub><b>Fight for your diploma</b></sub>
+      <sub><b>Fight for your diploma!</b></sub>
+    </td>
+    <td align="center">
+      <img src="./python_knowledge_refresh/5.png" width="120"><br>
+      <sub><b>Collect the best marks!</b></sub>
     </td>
     <td align="center">
       <img src="./python_knowledge_refresh/exit.png" width="120"><br>
@@ -34,7 +38,17 @@
   </tr>
 </table>
 
+<p align="center">
 Make sure you don't lose your motivation! 
+</p>
 <p align="center">
   <img src="./python_knowledge_refresh/died.PNG" width="580">
+</p>
+
+# WARNING
+<p align="center">
+Professors like to drink coffee too... 
+</p>
+<p align="center">
+  <img src="./python_knowledge_refresh/coffee.png" width="580">
 </p>
