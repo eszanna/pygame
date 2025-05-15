@@ -1,5 +1,5 @@
-
-<img src="./python_knowledge_refresh/title.png" width="240">
+<p align="center">
+<img src="./python_knowledge_refresh/title.png" width="580">
 
 A little game where you are an undergraduate at the great engineering school of Budapest
 <img src="./python_knowledge_refresh/undergraduate_left.png" width="160">
