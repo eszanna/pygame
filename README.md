@@ -10,7 +10,7 @@
   <tr>
     <td align="center">
       <img src="./python_knowledge_refresh/undergraduate.png" width="120"><br>
-      <sub><b>Escape angry professors</b></sub>
+      <sub><b>This is you</b></sub>
     </td>
     <td align="center">
       <img src="./python_knowledge_refresh/prof.png" width="120"><br>
